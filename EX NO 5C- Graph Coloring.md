@@ -37,7 +37,6 @@ Otherwise, print "NO".
 5. If all towers are successfully colored, return YES, else report NO.
 ## Program:
 ```
-Program to implement Reverse a String
 Developed by: NISHA D
 Register Number: 212223230143
 
