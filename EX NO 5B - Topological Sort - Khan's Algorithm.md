@@ -39,7 +39,6 @@ If not, print "Release cannot be scheduled".
 
 ## Program:
 ```
-Program to implement Reverse a String
 Developed by: NISHA D
 Register Number: 212223230143
 
